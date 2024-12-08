@@ -1,13 +1,12 @@
 import React from 'react'
 import Shop from '@/components/Shop'
 
-const page = () => {
+const ShopPage = () => {
   return (
     <div>
-        
-        <Shop />
+<Shop />
     </div>
   )
 }
 
-export default page
+export default ShopPage
